@@ -119,7 +119,7 @@ class Tetris {
   const imageSquareSize = 24;
   const size = 40;
   const framePerSecond = 24;
-  const gameSpeed = 5;
+  const gameSpeed = 2;
   const canvas = document.getElementById("canvas");
   const nextShapeCanvas = document.getElementById("nextShapeCanvas");
   const scoreCanvas = document.getElementById("scoreCanvas");
